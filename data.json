@@ -1,17 +1,30 @@
 {
-    "visi":"visi utama bemfst mempererat hubungan dan solidaritas antar mahasiswa dan organisasi - organisasi dibawah naungan FST melalui sosial media, event, dan acara. kami juga ingin mempermudah tersebarnya inspirasidan aspirasi bagi mahasiswa FST, menjadi pencipta dan pendorong perubahan positif didalam FST, sertamembangun landasan kuat guna mempersiapkan FST pada saat kembali melaksanakan pembelajaran offline(kesadaran akan pembelajaran selama pandemi, penyesuaian diri, penyebaran informasi, event, dan lain - lainnya).",
-    "misi":[
-      "Mengaktifkan kembali platform social media BEMFST demi mempererat hubungan dan solidaritas antar mahasiswa selama pandemi.",
-      "Membangung BEMFST yang pro-aktif & terbuka melalui proker yang inclusive.",
-      "Memberikan pengenalan kepada mahasiswa guna mempersiapakan kembalinya perkuliahaan offline."
-    ],
-    "komite":[
-        "https://i.ibb.co/qBxtVX2/p-1.jpg",
-        "https://i.ibb.co/S3CW3Ks/p-2.jpg",
-        "https://i.ibb.co/4YM0dPv/p-3.jpg",
-        "https://i.ibb.co/MpSVx8c/p-4.jpg",
-        "https://i.ibb.co/H79Fhvw/p-5.jpg",
-        "https://i.ibb.co/MGY1BY6/p-6.jpg",
-        "https://i.ibb.co/gVFNCYK/p-7.png"
-    ],
-  }
+	"visi": "visi utama bemfst mempererat hubungan dan solidaritas antar mahasiswa dan organisasi - organisasi dibawah naungan FST melalui sosial media, event, dan acara. kami juga ingin mempermudah tersebarnya inspirasidan aspirasi bagi mahasiswa FST, menjadi pencipta dan pendorong perubahan positif didalam FST, sertamembangun landasan kuat guna mempersiapkan FST pada saat kembali melaksanakan pembelajaran offline(kesadaran akan pembelajaran selama pandemi, penyesuaian diri, penyebaran informasi, event, dan lain - lainnya).",
+	"misi": [
+		"Mengaktifkan kembali platform social media BEMFST demi mempererat hubungan dan solidaritas antar mahasiswa selama pandemi.",
+		"Membangung BEMFST yang pro-aktif & terbuka melalui proker yang inclusive.",
+		"Memberikan pengenalan kepada mahasiswa guna mempersiapakan kembalinya perkuliahaan offline."
+	],
+	"komite": [{
+			"url": "https://i.ibb.co/qBxtVX2/p-1.jpg"
+		},
+		{
+			"url": "https://i.ibb.co/S3CW3Ks/p-2.jpg"
+		},
+		{
+			"url": "https://i.ibb.co/4YM0dPv/p-3.jpg"
+		},
+		{
+			"url": "https://i.ibb.co/MpSVx8c/p-4.jpg"
+		},
+		{
+			"url": "https://i.ibb.co/H79Fhvw/p-5.jpg"
+		},
+		{
+			"url": "https://i.ibb.co/MGY1BY6/p-6.jpg"
+		},
+		{
+			"url": "https://i.ibb.co/gVFNCYK/p-7.png"
+		}
+	]
+}
