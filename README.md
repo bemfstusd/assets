@@ -5,5 +5,5 @@ disini hanya berisikan data.json yang nantinya akan ditampilkan di halaman utama
 `visi` : string <br/>
 `misi` : array of string <br/>
 `komite` : array of object  <br/>
-`komite[][url]` : hanya berisikan url sebuah gambar, bisa menggunakan aplikasi upload apa saja semacam `imgbb`. tidak disarankan untuk menggunakan `encoded:base64` <br/>
+`komite[][url]` : hanya berisikan url sebuah gambar, bisa menggunakan aplikasi upload apa saja semacam [`imgbb`](https://imgbb.com/). tidak disarankan untuk menggunakan `encoded:base64` <br/>
 `kontak` : object yang berisikan hanya email dan instagram. 
